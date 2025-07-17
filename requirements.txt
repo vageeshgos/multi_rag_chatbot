@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-core
+langchain-ollama
+faiss-cpu
+youtube-transcript-api
+PyPDF2
+tqdm
